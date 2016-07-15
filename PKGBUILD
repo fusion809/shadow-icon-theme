@@ -2,7 +2,7 @@
 
 _pkgname=Shadow
 pkgname=shadow-icon-theme
-pkgver=2.1
+pkgver=2.1.3
 pkgrel=1
 arch=('any')
 pkgdesc="A flat colourful icon theme for GNOME 3.10+"
